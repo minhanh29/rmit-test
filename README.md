@@ -1,2 +1,2 @@
 ## Test Repo
-**Author**: Nguyen Minh Anh
+**Members**: Nguyen Minh Anh, Nguyen Minh Khang, Duong Pham Duong, Nguyen Binh.
